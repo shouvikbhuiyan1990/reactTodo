@@ -1,0 +1,16 @@
+{
+  "name": "reactboil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "components.js",
+  "dependencies": {
+    "babel-core": "^6.10.4",
+    "babel": "^6.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
